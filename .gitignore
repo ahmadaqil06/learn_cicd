@@ -7,7 +7,7 @@ node_modules/
 #cypress/reports/
 
 # Cypress cache
-Cypress/
+# Cypress/
 cypress/.cache/
 cypress/fixtures/data/*.json
 
