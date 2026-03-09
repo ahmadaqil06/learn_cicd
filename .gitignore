@@ -2,9 +2,9 @@
 node_modules/
 
 # Cypress
-cypress/videos/
-cypress/screenshots/
-cypress/reports/
+#cypress/videos/
+#cypress/screenshots/
+#cypress/reports/
 
 # Cypress cache
 Cypress/
